@@ -16,4 +16,5 @@ See the Markdown [Guide](https://docs.github.com/en/get-started/writing-on-githu
 1. The editor area initializes with default markdown content.
 2. This content showcases various markdown elements, such as headings, links, code blocks, and more.
 ## I am Available on;
-:point_right: LinkedIn - 
+:point_right: [LinkedIn](www.linkedin.com/in/divinepatrick) 
+:point_right: [My Website]([www.linkedin.com/in/divinepatrick](https://divinepatrick.vercel.app/)) 
